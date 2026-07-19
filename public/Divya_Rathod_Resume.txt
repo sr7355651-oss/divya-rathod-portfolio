@@ -1,0 +1,73 @@
+DIVYA SURESH RATHOD
+Full Stack Developer | Computer Science & Engineering Student
+Location: Pusad, Maharashtra, India
+Email: sr7355651@gmail.com
+LinkedIn: https://www.linkedin.com/in/divya-suresh-rathod-b6804b391
+GitHub: https://github.com/Sr7355651-oss
+
+=========================================
+CAREER OBJECTIVE
+=========================================
+Ambitious Computer Science & Engineering student with a strong foundation in Data Structures and Algorithms (DSA) and advanced problem-solving. Equipped with hand-on experience from an AI/ML developer internship. Highly passionate about building end-to-end web applications, combining backend robust architectures with modern, interactive frontends. Collaborative team player and leadership-driven individual seeking to create impactful software solutions.
+
+=========================================
+EDUCATION
+=========================================
+Bachelor of Engineering (BE) in Computer Science & Engineering
+Sant Gadge Baba Amravati University (SGBAU)
+Timeline: 2025 - 2029
+Current CGPA: 9.86 / 10.00
+
+Higher Secondary Certificate (HSC) | Grade XII
+Maharashtra State Board
+Percentage: 82.83%
+
+Secondary School Certificate (SSC) | Grade X
+Maharashtra State Board
+Percentage: 93.60%
+
+=========================================
+PROFESSIONAL EXPERIENCE
+=========================================
+Trainee Developer - AI & ML Intern
+iBase Electrosoft LLP
+- Developed and integrated Machine Learning models with user interfaces.
+- Learned algorithms and libraries including Python, Scikit-Learn, and TensorFlow.
+- Collaborated with engineering teams to design interactive and intelligent modules.
+- Awarded Certificate of Completion for outstanding performance.
+
+=========================================
+TECHNICAL SKILLS & COMPETENCIES
+=========================================
+- Programming Languages: C++, Python, JavaScript (ES6+), HTML5, CSS3, TypeScript
+- Computer Science Fundamentals: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS)
+- Problem Solving & Engineering: Algorithm Optimization, Architectural Design
+- Soft Skills: Leadership, Team Collaboration, Communication, Quick Learner
+
+=========================================
+PROJECTS (Highlights)
+=========================================
+1. Intelligent Task Hub
+   - Description: A modern full-stack web application with smart search, dynamic filtering, and sub-task grouping. Integrated localized AI tools for custom descriptions.
+   - Tech Stack: React, Tailwind CSS, Lucide Icons, TypeScript
+
+2. AlgoVisualizer
+   - Description: An interactive sorting and pathfinding visualizer built to showcase algorithmic efficiency and execution times.
+   - Tech Stack: HTML, CSS, JavaScript, Canvas API
+
+3. DevLink - Developer Connect
+   - Description: A micro-portfolio compiler and social platform where developers can customize their links, bio, and visual theme.
+   - Tech Stack: React, Tailwind, Local Storage
+
+=========================================
+CERTIFICATIONS
+=========================================
+- Certificate of Completion, AI & ML Trainee Developer Program, iBase Electrosoft LLP
+- Advanced Problem Solving and DSA Certification
+
+=========================================
+CONTACT & LINKS
+=========================================
+- Email: sr7355651@gmail.com
+- LinkedIn: https://www.linkedin.com/in/divya-suresh-rathod-b6804b391
+- GitHub: https://github.com/Sr7355651-oss

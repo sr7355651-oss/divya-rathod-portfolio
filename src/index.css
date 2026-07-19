@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Poppins", ui-sans-serif, system-ui, sans-serif;
+  --font-fredoka: "Fredoka", sans-serif;
+  --color-brand-purple: #8b5cf6;
+  --color-brand-light: #fafaf9;
+  --color-brand-dark: #121212;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: #27272a;
+  border: 2px solid #121212;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb {
+  background: #e4e4e7;
+  border: 2px solid #fafaf9;
+  border-radius: 9999px;
+}
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: #3f3f46;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #d4d4d8;
+}
+
+/* Custom styles for cursor trailing */
+.custom-cursor {
+  pointer-events: none;
+  position: fixed;
+  z-index: 9999;
+  transform: translate(-50%, -50%);
+  transition: width 0.2s, height 0.2s, background-color 0.2s, border-color 0.2s;
+}
+
+/* Text stroke for playful outlines */
+.text-stroke-purple {
+  -webkit-text-stroke: 1.5px #8b5cf6;
+  color: transparent;
+}
+
+/* Dot grid background pattern */
+.bg-dots-light {
+  background-image: radial-gradient(#e5e7eb 1px, transparent 1px);
+  background-size: 16px 16px;
+}
+.dark .bg-dots-dark {
+  background-image: radial-gradient(#27272a 1px, transparent 1px);
+  background-size: 16px 16px;
+}
+
